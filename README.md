@@ -8,5 +8,7 @@ Segunda versão site Império Hotel = (  HTML - CSS - BOOTSTRAP - JS - BD - JAVA
 https://jansrodriguez.github.io/_projetoRecodeIndividual2/
 }
 
+Terceira versão site Império Hotel = (  HTML - CSS - BOOTSTRAP - JS - BD - JAVA (Servlet) => {
 
+}
 
