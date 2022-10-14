@@ -12,7 +12,6 @@
     text-decoration: none;
 }
 #album-fotos{
-    width: 100%;
     list-style: none;
     margin: 0;
     padding: 10px 50px;
@@ -117,4 +116,14 @@ ul#album-fotos li span{
     line-height: 400px;
     padding: 5px;
     font-family: 'Arial Narrow';
+}
+
+@media (max-width: 737px){
+    ul#album-fotos li{
+        width: 150px;
+        height: 150px;
+    }
+    ul#album-fotos li:hover span{
+        opacity: 0;
+    }
 }
